@@ -27,6 +27,3 @@ Technologies Used
 ```bash
 git clone https://github.com/vanshikapariharr/BakeryShoppingCart.git
 
-AUTHOR
-VANSHIKA PARIHAR
-
