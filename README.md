@@ -17,15 +17,11 @@ Shopping Cart Functionality
 - Responsive layout designed to work across desktops and mobile devices.
 - Clean, visually appealing UI inspired by modern bakery websites.
 
----
-
-## Technologies Used
+Technologies Used
 
 - **HTML** – Structure of the webpage, product listings, and cart layout.
 - **CSS** – Styling for layout, typography, buttons, and responsive design.
 - **JavaScript** – Dynamic content handling, shopping cart logic, and event listeners.
-
----
 
 ## Installation and Usage
 
