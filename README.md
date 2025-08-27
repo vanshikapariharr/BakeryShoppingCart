@@ -23,8 +23,6 @@ Technologies Used
 - **CSS** – Styling for layout, typography, buttons, and responsive design.
 - **JavaScript** – Dynamic content handling, shopping cart logic, and event listeners.
 
-## Installation and Usage
-
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/vanshikapariharr/BakeryShoppingCart.git
